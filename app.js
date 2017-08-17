@@ -34,6 +34,7 @@ $.ajax({
  	console.log(data);
  });
 
+//
 /*notes
  //next iteration: print to screen, like this? 
 $(".api-calls").append(data.???);
